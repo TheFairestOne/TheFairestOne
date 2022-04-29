@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheFairestOne
-- 👀 I’m interested in energy, finance, storytelling and running
+- 👀 I’m interested in energy, trading, storytelling and running
 - 🌱 I’m currently learning python, R, javascript, and data science
-- 💞️ I’m looking to collaborate on anything and everything 🙂
+- 💞️ I’m looking to collaborate on interesting projects 🙂
 - 📫 How to reach me: https://www.linkedin.com/in/christopher-fair/
 
 <!---
